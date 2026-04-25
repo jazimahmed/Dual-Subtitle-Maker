@@ -1,0 +1,46 @@
+export const LANGS = [
+  { code: 'ar',    label: '🇸🇦 Arabic' },
+  { code: 'hi',    label: '🇮🇳 Hindi' },
+  { code: 'ur',    label: '🇵🇰 Urdu' },
+  { code: 'bn',    label: '🇧🇩 Bengali' },
+  { code: 'tr',    label: '🇹🇷 Turkish' },
+  { code: 'fa',    label: '🇮🇷 Persian' },
+  { code: 'fr',    label: '🇫🇷 French' },
+  { code: 'es',    label: '🇪🇸 Spanish' },
+  { code: 'de',    label: '🇩🇪 German' },
+  { code: 'pt',    label: '🇧🇷 Portuguese' },
+  { code: 'ru',    label: '🇷🇺 Russian' },
+  { code: 'ja',    label: '🇯🇵 Japanese' },
+  { code: 'zh-cn', label: '🇨🇳 Chinese (Simplified)' },
+  { code: 'ko',    label: '🇰🇷 Korean' },
+  { code: 'id',    label: '🇮🇩 Indonesian' },
+  { code: 'ms',    label: '🇲🇾 Malay' },
+  { code: 'ta',    label: '🇱🇰 Tamil' },
+  { code: 'te',    label: '🇮🇳 Telugu' },
+  { code: 'ml',    label: '🇮🇳 Malayalam' },
+  { code: 'th',    label: '🇹🇭 Thai' },
+  { code: 'vi',    label: '🇻🇳 Vietnamese' },
+  { code: 'it',    label: '🇮🇹 Italian' },
+  { code: 'nl',    label: '🇳🇱 Dutch' },
+  { code: 'pl',    label: '🇵🇱 Polish' },
+  { code: 'uk',    label: '🇺🇦 Ukrainian' },
+  { code: 'ro',    label: '🇷🇴 Romanian' },
+  { code: 'sv',    label: '🇸🇪 Swedish' },
+  { code: 'el',    label: '🇬🇷 Greek' },
+  { code: 'he',    label: '🇮🇱 Hebrew' },
+  { code: 'sw',    label: '🇰🇪 Swahili' },
+  { code: 'am',    label: '🇪🇹 Amharic' },
+  { code: 'so',    label: '🇸🇴 Somali' },
+  { code: 'tl',    label: '🇵🇭 Filipino' },
+]
+
+export const DELAY_OPTIONS = [
+  { value: '300',  label: 'Fast (300ms)' },
+  { value: '600',  label: 'Normal (600ms)' },
+  { value: '1200', label: 'Careful (1200ms)' },
+]
+
+export const ORDER_OPTIONS = [
+  { value: 'orig-trans', label: 'Original first, then Translation' },
+  { value: 'trans-orig', label: 'Translation first, then Original' },
+]
