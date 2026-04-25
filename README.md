@@ -8,6 +8,24 @@ No account. No API key. No backend. Just open and use.
 
 ## 📸 Screenshot
 
+## step 1 
+### select prefered language to be translated and combined
+
+![step1](./src/step1.png)
+
+## step 2 
+### upload the .srt subtitle file which needs to be translated
+
+![step2](./src/step2.png)
+
+## step 3 
+### click to translate
+
+![step3](./src/step3.png)
+
+## step 4
+### after completion click download or copy
+
 <!-- Replace the image below with your own screenshot -->
 ![Dual Subtitle Maker Screenshot](./src/Screenshot%202026-04-25%20101852.png)
 
