@@ -1,6 +1,6 @@
 # 🎬 Dual Subtitle Maker
 
-vercel link https://dual-subtitle-maker-a2fzo1g1h-jazimahmeds-projects.vercel.app/
+vercel link https://dual-subtitle-maker.vercel.app?_vercel_share=6X5ZBt9CK5j9dkKdVqg3b2aWDFE6hIxY
 
 A React web app that translates any `.SRT` subtitle file and combines the original + translated text into a single dual-subtitle file — ready to use in VLC, MPC-HC, or KMPlayer.
 
